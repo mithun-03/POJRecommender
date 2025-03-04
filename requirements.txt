@@ -1,0 +1,5 @@
+pip install fastapi uvicorn sqlalchemy mysql-connector-python bcrypt "python-jose[cryptography]"
+
+pip install "pydantic[email]"
+SQLAlchemy              
+pip install passlib
